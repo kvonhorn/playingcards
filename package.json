@@ -1,0 +1,13 @@
+{
+  "name": "playingcards",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:kvonhorn/playingcards.git"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
